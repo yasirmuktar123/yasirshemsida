@@ -1,10 +1,11 @@
 @import 'tailwindcss';
 @plugin '@tailwindcss/forms';
 @plugin '@tailwindcss/typography';
-
+@plugin "daisyui";
 
 @import '@skeletonlabs/skeleton';
 @import '@skeletonlabs/skeleton/optional/presets';
-@import '@skeletonlabs/skeleton/themes/cerberus';
+@import '@skeletonlabs/skeleton/themes/rocket';
+/* Här ovanför ändra tema yasir, mvh samir */
 
 @source '../node_modules/@skeletonlabs/skeleton-svelte/dist';
