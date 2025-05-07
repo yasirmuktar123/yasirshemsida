@@ -1,6 +1,6 @@
 // src/routes/devblog/[slug]/+page.js
 
-export const prerender = false;
+export const prerender = true;
 
 /** @type {import('./$types').PageLoad} */
 export async function load({ params }) {

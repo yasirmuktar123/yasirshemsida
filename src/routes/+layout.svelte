@@ -7,7 +7,6 @@
 <div class="navBar" id="mainNavBar">
 	<a href="{base}/home">Home</a>
 	<a href="{base}/login">login</a>
-	<a href="#about">About Us</a>
 	<a href="{base}/devblog">Devblog</a>
   <a href="{base}/quiz">quiz</a>
 	<!--&#9776; is the code for the 3 line menu button-->
