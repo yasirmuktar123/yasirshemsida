@@ -45,7 +45,7 @@
                 </button>
                 <button 
                     on:click={() => handleAnswer(4)}
-                    class="btn btn-warning h-24 text-lg"
+                    class="btn btn-dash btn-primary h-24 text-lg"
                 >
                     {answer4}
                 </button>
