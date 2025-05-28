@@ -223,4 +223,8 @@
         border-radius: 10px;
         color: white;
     }
+    .text-4xl{
+        font-size:2.5rem;
+        text-align: center;
+    }
     </style>
