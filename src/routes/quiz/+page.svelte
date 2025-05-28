@@ -190,7 +190,6 @@
     
     function handleAnswer(e) {
         totalPoints += e.detail.points;
-        // Move to next question or show results
         if(currentQuestion < questions.length - 1) {
             currentQuestion++;
         }

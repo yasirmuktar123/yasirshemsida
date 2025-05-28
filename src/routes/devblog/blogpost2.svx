@@ -10,12 +10,12 @@ jag har börjat med att ficka min quiz där jag har en fråga och då har man fy
 
 ## Ändringar
 Det här har jag ändrat:
-* börjat med quizlet 
+* fortsätter med quzilet fick lite buggar men har ficksat det
 * Har lag till fler frågor till quizlet och har ändrat layouten lite gran
 
 To get a better view on the changes proposed in that first version it is easier to watch the tutorial, it gives you a much better insight into what I started with.
 
 ## Features
-✅ jag har lagt till frågor till min quiz ungfär 20 styckna. 
-Published: 2023-05-07
+✅ Har ökat med frågerna och förbättrat stylingen
+Published: 
         
